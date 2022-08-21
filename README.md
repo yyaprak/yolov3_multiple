@@ -17,6 +17,6 @@ now dataset weights easy and you can run the yolo_object_detection.py to run tes
 
 ## Results
 
-![result_01](https://drive.google.com/drive/folders/1QfJNvmSWHtCRoN3vLcEnXhtm1VFw4Skg?usp=sharing/result_01.jpg)
-![result_01](https://drive.google.com/drive/folders/1QfJNvmSWHtCRoN3vLcEnXhtm1VFw4Skg?usp=sharing/result_02.jpg)
-![result_01](https://drive.google.com/drive/folders/1QfJNvmSWHtCRoN3vLcEnXhtm1VFw4Skg?usp=sharing/result_03.jpg)
+![result_01](results/result_01.jpg)
+![result_01](results/result_02.jpg)
+![result_01](results/result_03.jpg)
